@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Zeros2112&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeros2112&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+  <td width="52%"><img alt="gif" align="right" src="https://github.com/Zeros2112/Zeros2112/assets/136704843/8e49bf35-6d31-4ad6-95aa-7da8b202db89"/></td>
 </tr>
 <table>
 
