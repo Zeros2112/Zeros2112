@@ -1,9 +1,9 @@
 ### Hi, I'm Hy Nguyen - currently an undergraduate student at [University of South Florida] 🌱 
 
 
-- 🔭 I'm passionate about Machine Learning and Deep Learning
+- 🔭 I'm passionate about Machine Learning, Deep Learning and Backend.
 - 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams + High risk high rewards
-- 💪 2023 Goals: To have my first intern and research about ML and DL in USF ^^
+- 💪 2024 Goals: To have my first intern and research about ML and DL in USF ^^
 
 ### :zap: GitHub Stats
 
