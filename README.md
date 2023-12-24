@@ -38,6 +38,6 @@
 
 ### 📫 Contact me via:
 
-RESUME: [HY, NGUYEN G.](https://docs.google.com/document/d/1Xk7k05Y23DlijgszW9Li37mj-bpvIHfHRQmsZ6PnSgQ/edit) 
+RESUME: [HY, NGUYEN G.](https://docs.google.com/document/d/1Acj87CUoZx2Qgp6btFLG2AZUcHAAMurLpa9U3AtzISA/edit?usp=sharing) 
 
  
